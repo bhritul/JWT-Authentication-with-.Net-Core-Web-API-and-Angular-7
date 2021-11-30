@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JIzoCGqPXCdGXeWlKLaONUfVGrmlT5cAnQ0GMMUfeZRAso65aFuOWOiag2bI8J+ZHXSQiltkCVEVCa2AiyzQiw==",
+  "dgSpecHash": "mB314MhoDTyyQCvLpR+vg7MfEoSc8hgtjGMesZ4bfQq9Nxv2e7UxVcMnAsvC+PlUea+U+tspdaVh2MoBGW2drw==",
   "success": true,
   "projectFilePath": "/home/precision/Programming/JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7/WebAPI/WebAPI/WebAPI.csproj",
   "expectedPackageFiles": [

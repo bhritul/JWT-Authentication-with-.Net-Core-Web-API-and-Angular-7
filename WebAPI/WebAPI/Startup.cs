@@ -94,6 +94,7 @@ namespace WebAPI
             {
                 app.UseDeveloperExceptionPage();
             }
+            app.UseRouting();
 
             app.UseCors(builder =>
             builder.WithOrigins(Configuration["ApplicationSettings:Client_URL"].ToString())
@@ -104,10 +105,10 @@ namespace WebAPI
 
             app.UseAuthentication();
 
-            // app.UseEndpoints(endpoints =>
-            // {
-            //     endpoints.MapControllerRoute(name: "default", pattern: "{controller=Home}/{action=Index}/{id?}");
-            // });
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapControllers();
+            });
         }
     }
 }
