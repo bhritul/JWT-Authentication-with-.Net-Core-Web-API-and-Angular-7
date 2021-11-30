@@ -1,0 +1,6 @@
+/home/precision/Programming/JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7/WebAPI/WebAPI/obj/Debug/netcoreapp6.0/WebAPI.csproj.AssemblyReference.cache
+/home/precision/Programming/JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7/WebAPI/WebAPI/obj/Debug/netcoreapp6.0/WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/home/precision/Programming/JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7/WebAPI/WebAPI/obj/Debug/netcoreapp6.0/WebAPI.AssemblyInfoInputs.cache
+/home/precision/Programming/JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7/WebAPI/WebAPI/obj/Debug/netcoreapp6.0/WebAPI.AssemblyInfo.cs
+/home/precision/Programming/JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7/WebAPI/WebAPI/obj/Debug/netcoreapp6.0/WebAPI.csproj.CoreCompileInputs.cache
+/home/precision/Programming/JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7/WebAPI/WebAPI/obj/Debug/netcoreapp6.0/WebAPI.MvcApplicationPartsAssemblyInfo.cache

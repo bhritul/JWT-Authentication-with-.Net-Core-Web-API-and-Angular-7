@@ -1,28 +1,46 @@
-F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
-F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
-F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
-F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
-F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
-F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
-F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
-F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
-F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
-F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
-F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
-F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
-F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
-F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
-F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
-F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
-F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
-F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
-F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
-F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
-F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
-F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
-F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
-F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
-F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
-F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
-F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
-F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+F:/profession/CodAffection/Asp.Net Core/User Registration - API and Angular 7/project/WebAPI/WebAPI/bin/Debug/netcoreapp2.2/WebAPI.deps.json
+F:/profession/CodAffection/Asp.Net Core/User Registration - API and Angular 7/project/WebAPI/WebAPI/bin/Debug/netcoreapp2.2/WebAPI.runtimeconfig.json
+F:/profession/CodAffection/Asp.Net Core/User Registration - API and Angular 7/project/WebAPI/WebAPI/bin/Debug/netcoreapp2.2/WebAPI.runtimeconfig.dev.json
+F:/profession/CodAffection/Asp.Net Core/User Registration - API and Angular 7/project/WebAPI/WebAPI/bin/Debug/netcoreapp2.2/WebAPI.dll
+F:/profession/CodAffection/Asp.Net Core/User Registration - API and Angular 7/project/WebAPI/WebAPI/bin/Debug/netcoreapp2.2/WebAPI.pdb
+F:/profession/CodAffection/Asp.Net Core/User Registration - API and Angular 7/project/WebAPI/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.csprojAssemblyReference.cache
+F:/profession/CodAffection/Asp.Net Core/User Registration - API and Angular 7/project/WebAPI/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.csproj.CoreCompileInputs.cache
+F:/profession/CodAffection/Asp.Net Core/User Registration - API and Angular 7/project/WebAPI/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.RazorAssemblyInfo.cache
+F:/profession/CodAffection/Asp.Net Core/User Registration - API and Angular 7/project/WebAPI/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.RazorAssemblyInfo.cs
+F:/profession/CodAffection/Asp.Net Core/User Registration - API and Angular 7/project/WebAPI/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.AssemblyInfoInputs.cache
+F:/profession/CodAffection/Asp.Net Core/User Registration - API and Angular 7/project/WebAPI/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.AssemblyInfo.cs
+F:/profession/CodAffection/Asp.Net Core/User Registration - API and Angular 7/project/WebAPI/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.RazorTargetAssemblyInfo.cache
+F:/profession/CodAffection/Asp.Net Core/User Registration - API and Angular 7/project/WebAPI/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.dll
+F:/profession/CodAffection/Asp.Net Core/User Registration - API and Angular 7/project/WebAPI/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.pdb
+F:/profession/CodAffection/Asp.Net Core/JWT Auth with API and Angular 7/project/WebAPI/WebAPI/bin/Debug/netcoreapp2.2/WebAPI.deps.json
+F:/profession/CodAffection/Asp.Net Core/JWT Auth with API and Angular 7/project/WebAPI/WebAPI/bin/Debug/netcoreapp2.2/WebAPI.runtimeconfig.json
+F:/profession/CodAffection/Asp.Net Core/JWT Auth with API and Angular 7/project/WebAPI/WebAPI/bin/Debug/netcoreapp2.2/WebAPI.runtimeconfig.dev.json
+F:/profession/CodAffection/Asp.Net Core/JWT Auth with API and Angular 7/project/WebAPI/WebAPI/bin/Debug/netcoreapp2.2/WebAPI.dll
+F:/profession/CodAffection/Asp.Net Core/JWT Auth with API and Angular 7/project/WebAPI/WebAPI/bin/Debug/netcoreapp2.2/WebAPI.pdb
+F:/profession/CodAffection/Asp.Net Core/JWT Auth with API and Angular 7/project/WebAPI/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.csprojAssemblyReference.cache
+F:/profession/CodAffection/Asp.Net Core/JWT Auth with API and Angular 7/project/WebAPI/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.csproj.CoreCompileInputs.cache
+F:/profession/CodAffection/Asp.Net Core/JWT Auth with API and Angular 7/project/WebAPI/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.RazorAssemblyInfo.cache
+F:/profession/CodAffection/Asp.Net Core/JWT Auth with API and Angular 7/project/WebAPI/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.RazorAssemblyInfo.cs
+F:/profession/CodAffection/Asp.Net Core/JWT Auth with API and Angular 7/project/WebAPI/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.AssemblyInfoInputs.cache
+F:/profession/CodAffection/Asp.Net Core/JWT Auth with API and Angular 7/project/WebAPI/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.AssemblyInfo.cs
+F:/profession/CodAffection/Asp.Net Core/JWT Auth with API and Angular 7/project/WebAPI/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.RazorTargetAssemblyInfo.cache
+F:/profession/CodAffection/Asp.Net Core/JWT Auth with API and Angular 7/project/WebAPI/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.dll
+F:/profession/CodAffection/Asp.Net Core/JWT Auth with API and Angular 7/project/WebAPI/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.pdb
+/home/precision/Programming/JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7/WebAPI/WebAPI/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/home/precision/Programming/JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7/WebAPI/WebAPI/bin/Debug/netcoreapp2.2/appsettings.json
+/home/precision/Programming/JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7/WebAPI/WebAPI/bin/Debug/netcoreapp2.2/WebAPI.deps.json
+/home/precision/Programming/JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7/WebAPI/WebAPI/bin/Debug/netcoreapp2.2/WebAPI.runtimeconfig.json
+/home/precision/Programming/JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7/WebAPI/WebAPI/bin/Debug/netcoreapp2.2/WebAPI.runtimeconfig.dev.json
+/home/precision/Programming/JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7/WebAPI/WebAPI/bin/Debug/netcoreapp2.2/WebAPI.dll
+/home/precision/Programming/JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7/WebAPI/WebAPI/bin/Debug/netcoreapp2.2/WebAPI.pdb
+/home/precision/Programming/JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7/WebAPI/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.csproj.AssemblyReference.cache
+/home/precision/Programming/JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7/WebAPI/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/home/precision/Programming/JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7/WebAPI/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.AssemblyInfoInputs.cache
+/home/precision/Programming/JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7/WebAPI/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.AssemblyInfo.cs
+/home/precision/Programming/JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7/WebAPI/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.csproj.CoreCompileInputs.cache
+/home/precision/Programming/JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7/WebAPI/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.RazorAssemblyInfo.cache
+/home/precision/Programming/JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7/WebAPI/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.RazorAssemblyInfo.cs
+/home/precision/Programming/JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7/WebAPI/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.RazorTargetAssemblyInfo.cache
+/home/precision/Programming/JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7/WebAPI/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.dll
+/home/precision/Programming/JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7/WebAPI/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.pdb
+/home/precision/Programming/JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7/WebAPI/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.genruntimeconfig.cache
